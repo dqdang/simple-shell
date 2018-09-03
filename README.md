@@ -1,2 +1,2 @@
-# simple-shell
-A simple shell with built-ins like redirection, pipe, history, and change directory.
+# project02-dqdang
+project02-dqdang created by GitHub Classroom
